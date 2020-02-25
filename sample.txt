@@ -1,0 +1,4 @@
+this is a git test.
+test file
+foo bar baz
+hoge fuga
